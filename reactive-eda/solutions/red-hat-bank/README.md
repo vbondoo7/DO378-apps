@@ -1,4 +1,4 @@
-# Red Hat Bank
+# Local Bank
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
